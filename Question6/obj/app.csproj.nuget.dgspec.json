@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tyler/Desktop/AP2/app/app.csproj": {}
+    "/home/tyler/Desktop/AP2/Question6/app.csproj": {}
   },
   "projects": {
-    "/home/tyler/Desktop/AP2/app/app.csproj": {
+    "/home/tyler/Desktop/AP2/Question6/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tyler/Desktop/AP2/app/app.csproj",
+        "projectUniqueName": "/home/tyler/Desktop/AP2/Question6/app.csproj",
         "projectName": "app",
-        "projectPath": "/home/tyler/Desktop/AP2/app/app.csproj",
+        "projectPath": "/home/tyler/Desktop/AP2/Question6/app.csproj",
         "packagesPath": "/home/tyler/.nuget/packages/",
-        "outputPath": "/home/tyler/Desktop/AP2/app/obj/",
+        "outputPath": "/home/tyler/Desktop/AP2/Question6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tyler/.nuget/NuGet/NuGet.Config"

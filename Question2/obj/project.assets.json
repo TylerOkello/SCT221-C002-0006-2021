@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tyler/Desktop/AP2/app/app.csproj",
+      "projectUniqueName": "/home/tyler/Desktop/AP2/Question2/app.csproj",
       "projectName": "app",
-      "projectPath": "/home/tyler/Desktop/AP2/app/app.csproj",
+      "projectPath": "/home/tyler/Desktop/AP2/Question2/app.csproj",
       "packagesPath": "/home/tyler/.nuget/packages/",
-      "outputPath": "/home/tyler/Desktop/AP2/app/obj/",
+      "outputPath": "/home/tyler/Desktop/AP2/Question2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tyler/.nuget/NuGet/NuGet.Config"
